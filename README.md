@@ -12,11 +12,6 @@ This repository contains a basic portfolio website created using HTML and CSS. T
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
-
-You can view a live demo of the portfolio [here](https://your-demo-link-here.com).
-
-![Portfolio Screenshot](screenshot.png)
 
 ## Features
 
